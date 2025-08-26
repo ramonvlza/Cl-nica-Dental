@@ -352,6 +352,8 @@
         // Variables globales para almacenar datos
         let patientsData = [];
         
+        console.log('Sistema dental iniciando...');
+        
         // Inicializar la aplicación
         document.addEventListener('DOMContentLoaded', function() {
             updateCurrentDate();
